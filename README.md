@@ -40,7 +40,7 @@ Depoyu Klonlayın:
 
 Bash
 
-git clone [REPO_URL'İNİZİ BURAYA YAPIŞTIRIN]
+git clone https://github.com/mzahidyilmaz/FinancialCRM.git
 Veritabanı Kurulumu:
 
 MSSQL Server'ınızda yeni bir veritabanı oluşturun (Örn: FinancialCRMDb).
